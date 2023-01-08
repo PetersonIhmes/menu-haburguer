@@ -2,7 +2,7 @@
 Website responsivo com dark thema e menu  hanburguer
 
 
-Meu: [Respositorio ](https://github.com/PetersonIhmes/menu-haburguer)
+[Deploy ](https://petersonihmes.github.io/menu-haburguer/)
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/118133517/211211336-9adee5bc-dbab-4672-b694-0e160895fb3c.png" />
